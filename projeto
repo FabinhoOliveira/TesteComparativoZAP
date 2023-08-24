@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync  http://xml.vivareal.com/vrsync.xsd">
+   <Header>
+       <Provider>Desenvolvedor do Feed</Provider>
+       <Email>desenvolvefeed@feed.com.br</Email>
+       <ContactName>Nome do Cliente</ContactName>
+       <PublishDate>2018-05-29T17:47:57</PublishDate>
+       <Telephone>11-3450 4646</Telephone>
+   </Header>
+   <Listings>
+     <Listing>
+      <ListingID>T01</ListingID>
+      <Title>Sobrado para venda possui 65 metros quadrados com 2 quartos em Jardim Mangalot - São Paulo - SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.grupozap.com.br/imoveis/1005434</DetailViewUrl>
+      <Media>
+			<Item medium="video">https://www.youtube.com/watch?v=5TJwqCrZiUo</Item>
+			<Item medium="image" caption="img1" primary="true">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/f0b19481-9795-4c6b-b0b7-dae2bd7f5124.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/30358a16-8971-45ae-9225-866e5dc608f2.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/52b1efcb-053f-4e56-90cb-b81c4a01cdbb.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/6c6c5ad3-ada4-4c57-9797-c7eea431a6e4.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/54ecc19e-587a-4995-b099-c46f3bde8cfb.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/d5137a74-ac6d-4386-8262-cd5afffc51a6.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/28a363a4-24e2-4699-b8e5-5c18d02712e4.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/cf4857ed-3a02-401e-b009-1d216a9bd1cd.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/d491d480-8394-402d-ae60-f5ba4d5b2f56.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/eb03407a-ba16-447c-8dee-9e76a354dac4.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/65576407-d463-47e4-8cc4-2da6cf2ce801.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/c4e71d7b-916d-41ea-818d-558543ad67b5.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/87033cd3-c8c7-4397-be40-58dcf831da31.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/437aa657-afc6-4c6c-a37b-e66c87042a8f.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/626650eb-5e05-4255-82c6-2e4cabab062e.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/95c23cb7-390d-44de-975f-10e1342f0ec3.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/61091462-e4fb-4375-95f5-50017475ea5d.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/8edba647-b11f-47d3-9665-ba1bccc404f5.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/86cfd6dc-13f7-42b1-927e-afd8ceb4c101.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/664b8db8-05fb-4c85-a7c0-2c0c894196c6.jpg"</Item>
+			<Item medium="image" caption="img02">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/ab9326e6-31bc-44e9-bc15-57c5bf07ad72.jpg"</Item>
+      </Media>
+      <Details>
+          <UsageType>Residential</UsageType>
+          <PropertyType>Residential / Apartment</PropertyType>
+          <Description><![CDATA[  Excelente Casa Térrea no Jardim Mangalot com 2 quartos e 2 vagas de garagem.
+
+Apresentamos uma excelente casa térrea localizada na região de Pirituva, que oferece um espaço amplo, confortável e repleto de comodidades.
+
+Com um terreno de 125m² e uma área construída de 65m², essa casa é simplesmente incrível. Ela é espaçosa e oferece todo o conforto necessário para uma vida tranquila e agradável.
+
+A casa possui 2 salas, proporcionando diversos ambientes para serem aproveitados de acordo com as necessidades e preferências da família. São 2 quartos, garantindo privacidade e conforto individual para cada membro da família. 
+
+A cozinha e a copa são espaçosas e funcionais, perfeitas para quem gosta de cozinhar e receber amigos e familiares em casa. 
+
+O quintal amplo é um convite para momentos de lazer e descanso em família. Nele, é possível aproveitar momentos ao ar livre, fazer churrascos, cultivar um jardim ou até mesmo criar um espaço para diversão das crianças.
+
+
+A casa também oferece estacionamento para 2 automóveis, garantindo praticidade e segurança para a família.
+
+Essa casa térrea  é uma oportunidade imperdível. Com suas características únicas, espaços bem distribuídos e uma localização privilegiada, ela oferece o máximo em conforto, comodidade e qualidade de vida. Não perca a chance de conhecer pessoalmente essa incrível residência. Agende uma visita e encante-se com tudo que ela tem a oferecer!]]></Description>
+          <ListPrice currency="BRL">450000</ListPrice>
+          <LotArea unit="square metres">125</LotArea>
+          <LivingArea unit="square metres">60</LivingArea>
+          <PropertyAdministrationFee currency="BRL"></PropertyAdministrationFee>
+          <YearlyTax currency="BRL"></YearlyTax>
+          <Bedrooms>2</Bedrooms>
+          <Bathrooms>1</Bathrooms>
+          <Floors></Floors>
+          <Buildings></Buildings>
+          <Suites></Suites>
+          <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="All">
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="SP">Sao Paulo</State>
+          <City>São Paulo</City>
+          <Zone> Zona Norte</Zone>
+          <Neighborhood>Jardim Mangalot</Neighborhood>
+          <Address>Rua José Baltore</Address>
+          <StreetNumber>73</StreetNumber>
+          <Complement>Ap 01</Complement>
+          <PostalCode>05135-100</PostalCode>
+          <Latitude>-23.489504</Latitude>
+          <Longitude>-46.746744</Longitude>
+      </Location>
+      <ContactInfo>
+          <Name>Imobiliaria Feliz</Name>
+          <Email>contato@imobiliariafeliz.com.br</Email>
+          <Website>http://www.imobiliariafeliz.com.br</Website>
+          <Logo>http://www.imobiliariafeliz.com.br/logo.jpg</Logo>
+          <OfficeName>Imobiliária Feliz - Agencia Principal</OfficeName>
+          <Telephone>(11) 3150-4646</Telephone>
+          <Location>
+             <Country abbreviation="BR">Brasil</Country>
+             <State abbreviation="SP">Sao Paulo</State>
+             <City>São Paulo</City>
+             <Neighborhood>Alto da Mooca</Neighborhood>
+             <Address>Rua Joá, 1890</Address>
+             <PostalCode>03178-200</PostalCode>
+          </Location>
+      </ContactInfo>
+     </Listing>
+   </Listings>
+</ListingDataFeed>
